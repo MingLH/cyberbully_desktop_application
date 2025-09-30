@@ -8,5 +8,5 @@ designed to fit within a smartphone display resolution.
 
 <h2>How To Run</h2>
 <p>
-  Run the CyberbullyApp.java file 
+  Run the CyberbullyApp.java (main) file 
 </p>
